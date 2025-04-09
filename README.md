@@ -38,7 +38,7 @@ Tatlı şekerlerin patladığı, büyük kazançların seni beklediği bir slot 
 
 ## Canlı Demo
 
-[https://kullaniciadi.github.io/candy-burst-1000](https://kullaniciadi.github.io/candy-burst-1000)
+[https://Insomnia34.github.io/candy-burst-1000](https://Insomnia34.github.io/candy-burst-1000)
 
 ---
 
