@@ -1,0 +1,1 @@
+console.log('Candy Burst 1000 çalışıyor!');
